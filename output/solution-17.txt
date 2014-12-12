@@ -1,0 +1,5 @@
+Manager: Flickerman, Caesar: Development Manager @ $218400.0
+    Mellark, Peeta: SR Developer @ $131040.0
+    Everdeen, Katniss: JR Developer @ $163800.0
+Manager: Heavensbee, Plutarch: Development Manager @ $208208.0
+    Odair, Finnick: JR Developer @ $131040.0
