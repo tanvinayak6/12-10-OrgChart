@@ -1,0 +1,12 @@
+1,5c1,5
+< Manager: Flickerman, Caesar: Development Manager @ $114400.0
+< 	Employee: Mellark, Peeta: SR Developer @ $93600.0
+< 	Employee: Everdeen, Katniss: JR Developer @ $72800.0
+< Manager: Heavensbee, Plutarch: Development Manager @ $114400.0
+< 	Employee: Odair, Finnick: JR Developer @ $72800.0
+---
+> manager: Mosley, S.A.: Swagnician @ 150696.0
+> 	 Employee:Patel, Soffie: Janitor @ 5.2E-13
+> 	 Employee:DisGrace, Kyle: Boolie @ 1092.0
+> manager: Komarinski, Alex: Computer Science Teacher @ 23400.0
+> 	 Employee:Patel, Naman: Pastor @ 2184.0

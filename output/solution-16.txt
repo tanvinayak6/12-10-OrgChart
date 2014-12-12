@@ -1,0 +1,5 @@
+manager: Mosley, S.A.: Swagnician @ 150696.0
+	 Employee:Patel, Soffie: Janitor @ 5.2E-13
+	 Employee:DisGrace, Kyle: Boolie @ 1092.0
+manager: Komarinski, Alex: Computer Science Teacher @ 23400.0
+	 Employee:Patel, Naman: Pastor @ 2184.0
